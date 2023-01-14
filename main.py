@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Body
+from fastapi import Body, FastAPI
 
 from api.views import check_form_exists
 
